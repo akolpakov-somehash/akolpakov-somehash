@@ -1,0 +1,79 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/akolpakov-somehash/headless-ecom-webserver/commit/a19e264392019722d86c784be66acb096f78a82f\"><strong>a</strong>19e264392019722d86c784be66acb096f78a82f</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/akolpakov-somehash/headless-ecom-sales-service/commit/ab930b21c074c3d3d22acdc2d5bb2f419ad3a0e4\"><strong>ab</strong>930b21c074c3d3d22acdc2d5bb2f419ad3a0e4</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/akolpakov-somehash/stimer/commit/6c5ab3f18a3f4f17bc33a4418f406de24275631b\">6c5ab3f</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/sleepy-coder.png?raw=true"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/akolpakov-somehash/headless-ecom-webserver/commit/0cb04c2343e4f3c702d9784b270dfc32e87cbef1\">0cb04c2</a>\n- <a href=\"https://github.com/akolpakov-somehash/headless-ecom-frontend/commit/29eba9d77b1c1cf9a2af481d20bb427b4c45e3b5\">29eba9d</a>\n- <a href=\"https://github.com/akolpakov-somehash/go-microservices/commit/c8d75f14ad2128b792bd7467719797fd8a33f738\">c8d75f1</a>\n- <a href=\"https://github.com/akolpakov-somehash/go-microservices/commit/19865a3e5ecb74519528cce2e298aee66cf99358\">19865a3</a>\n- <a href=\"https://github.com/akolpakov-somehash/stimer/commit/7b273d3c7f05ef880c0a47350dae3cae2df59637\">7b273d3</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/akolpakov-somehash/akolpakov-somehash/commit/7c7a97a97a9f54bda503f03a8775e6a2bfd283e0\">7c7a97a</a>\n- <a href=\"https://github.com/akolpakov-somehash/akolpakov-somehash/commit/2debd5d95efe65060e344892b65897b386305a09\">2debd5d</a>\n- <a href=\"https://github.com/akolpakov-somehash/akolpakov-somehash/commit/0c22123b3f22ffe27f72b364fc70f1f359437652\">0c22123</a>\n- <a href=\"https://github.com/akolpakov-somehash/headless-ecom-frontend/commit/1fd74c3686ae7edf560464d0a21d81393887f157\">1fd74c3</a>\n- <a href=\"https://github.com/akolpakov-somehash/headless-ecom-frontend/commit/b102f28bde681b2745ff1fdcd0f9997e201174c7\">b102f28</a>\n- <a href=\"https://github.com/akolpakov-somehash/headless-ecom-frontend/commit/65f62c40875edf82e8791bab8a94b52962b3d085\">65f62c4</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 1 times.",
+    "body": "- <a href=\"https://github.com/akolpakov-somehash/go-microservices/commit/6236e1dfa8b40dead7a1cce37b2f1b5c71ab9b01\">6236e1dfa8b40<strong>dead</strong>7a1cce37b2f1b5c71ab9b01</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/dead-commit/dead-commit.png?raw=true"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-1.png?raw=true"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/akolpakov-somehash/go-microservices/pull/23\">#23</a>: Feature/checkout\n- <a href=\"https://github.com/akolpakov-somehash/headless-ecom-sales-service/pull/1\">#1</a>: Trigger only on PR\n- <a href=\"https://github.com/akolpakov-somehash/headless-ecom-webserver/pull/1\">#1</a>: Changes proto lib names\n- <a href=\"https://github.com/akolpakov-somehash/headless-ecom-frontend/pull/85\">#85</a>: Updated dependencies",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/this-is-fine/this-is-fine.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"from\".",
+    "body": "My favorite commit message words are:\n\n1. from (used 273 times)\n2. to (used 168 times)\n3. bump (used 158 times)\n4. merge (used 115 times)\n5. pull (used 113 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  }
+]
